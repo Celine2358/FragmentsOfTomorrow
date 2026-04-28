@@ -1,7 +1,5 @@
-[README_FragmentsOfTomorrow.md](https://github.com/user-attachments/files/27156453/README_FragmentsOfTomorrow.md)
 # Fragments of Tomorrow, 내일의 조각
-
-![Main Icon](./MainIcon.png)
+<img width="412" height="482" alt="MainCharacter" src="https://github.com/user-attachments/assets/334cdecf-103a-4bba-bcca-749d2f758f30" />
 
 > **"우리에겐 내일이 있다."**
 
@@ -248,7 +246,6 @@ AIRa는 폐허에서 발견되는 이계의 기계종족입니다.
 | 아트 | Photoshop |
 | 애니메이션 | Spine, Unity Animator |
 | 데이터 관리 | ScriptableObject, PlayerPrefs, JSON |
-| 문서화 | Notion |
 
 ---
 
@@ -320,7 +317,7 @@ AIRa는 폐허에서 발견되는 이계의 기계종족입니다.
 게임 빌드는 GitHub Releases에서 받을 수 있습니다.
 
 - 최신 버전: Releases 탭 확인
-- 권장 파일명: `FragmentsOfTomorrow_Windows_v1.0.0.zip`
+- 파일명: `FragmentsOfTomorrow_Windows_v1.0.0.zip`
 
 ---
 
